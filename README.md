@@ -1,7 +1,7 @@
 # Deploying a Flask API
 
 This is the project starter repo for the fourth course in the [Udacity Full Stack Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004): Server Deployment, Containerization, and Testing.
-API endpoint:http://http://a8dc4a5111e9f41889dd3619f282f32e-944860015.ap-south-1.elb.amazonaws.com/
+API endpoint:http://a8dc4a5111e9f41889dd3619f282f32e-944860015.ap-south-1.elb.amazonaws.com/
 In this project you will containerize and deploy a Flask API to a Kubernetes cluster using Docker, AWS EKS, CodePipeline, and CodeBuild.
 
 The Flask app that will be used for this project consists of a simple API with three endpoints:
